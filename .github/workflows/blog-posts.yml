@@ -1,0 +1,20 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://nessimbena.github.io/feed.xml"
+          max_post_count: 5
+          commit_message: "Update README.md: latest blog posts"

@@ -37,12 +37,12 @@ I'm a CS PhD student at Institut Polytechnique de Paris and an AI engineer at Pr
 | **Research code** | |
 | [RiemannianVicreg](https://github.com/NessimBenA/RiemannianVicreg) | Code, sweep and results of the R-VICReg paper, with a script that checks every reported number |
 | [LLMEvaluationWithGraphs](https://github.com/NessimBenA/LLMEvaluationWithGraphs) | Asks LLMs for a knowledge graph of a subject and ranks them by how connected their graphs are |
-| [geometric_interpolation](https://github.com/NessimBenA/geometric_interpolation) | Resizes a class region by sliding last-layer weights along a cubic fitted over neuron index |
-| [deeply_polynomial](https://github.com/NessimBenA/deeply_polynomial) | One unit that also sees x₁x₂ fits XOR where stacked linear layers fail |
 | **Tools** | |
-| [ULTRATHINK-GO](https://github.com/NessimBenA/ULTRATHINK-GO) | A local live feed of what a coding agent does in a repo: commits and TODO.md changes, in the browser |
 | [LLMsOnCLI](https://github.com/NessimBenA/LLMsOnCLI) | Terminal chat for OpenRouter models: streaming replies, vim keys, searchable history, forkable conversations |
 | **Earlier work** | |
+| [ULTRATHINK-GO](https://github.com/NessimBenA/ULTRATHINK-GO) | A local live feed of what a coding agent does in a repo: commits and TODO.md changes, in the browser |
+| [geometric_interpolation](https://github.com/NessimBenA/geometric_interpolation) | Resizes a class region by sliding last-layer weights along a cubic fitted over neuron index |
+| [deeply_polynomial](https://github.com/NessimBenA/deeply_polynomial) | One unit that also sees x₁x₂ fits XOR where stacked linear layers fail |
 | [Mobilenetv2_Autoencoder](https://github.com/NessimBenA/Mobilenetv2_Autoencoder) | A MobileNetV2-style convolutional autoencoder trained on CIFAR-10 |
 | [heat_diffusion](https://github.com/NessimBenA/heat_diffusion) | Lattice-Boltzmann simulation of a heated lid-driven cavity |
 | [pathology_pipeline](https://github.com/NessimBenA/pathology_pipeline) | Whole-slide image pipeline for the Mayo Clinic STRIP AI Kaggle competition, with @ThomasPDM |
